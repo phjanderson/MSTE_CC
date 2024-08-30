@@ -12,7 +12,7 @@ I'm sure that tools like this already exist, but I couldn't find them so I decid
 
 _The program doesn't check if you actually have a Mega STE, so it will produce an error if you run it on any other machine. Feel free to improve the code to add a check if machine is a Mega STE and add a more gentle error message instead. Just share your improvement back using a fork and pull request._
 
-## Uaage
+## Usage
 
 By defaul the Atari Mega STE boots in 8mhz with cache disabled.
 
