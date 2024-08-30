@@ -14,7 +14,7 @@ _The program doesn't check if you actually have a Mega STE, so it will produce a
 
 ## Usage
 
-By defaul the Atari Mega STE boots in 8mhz with cache disabled.
+By default the Atari Mega STE boots in 8mhz with cache disabled.
 
 * 16MHZ_CH.PRG - switch to 16MHz with cache enabled
 * 16MHZ.PRG - switch to 16MHz with cache disabled
